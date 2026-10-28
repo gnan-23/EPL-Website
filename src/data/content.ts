@@ -750,3 +750,20 @@ export const galleryItems: GalleryItem[] = [
     image: "/gallery/G-6.jpeg"
   }
 ];
+
+// Make all image/video paths work under the GitHub Pages base path
+const withBase = (p?: string) =>
+  p && p.startsWith("/") ? import.meta.env.BASE_URL + p.slice(1) : p;
+
+researchAreas.forEach((r) => {
+  r.image = withBase(r.image);
+  r.video = withBase(r.video);
+  r.primaryVideo = withBase(r.primaryVideo);
+  if (r.images) r.images = r.images.map((i) => withBase(i) as string);
+});
+members.forEach((m) => {
+  m.image = withBase(m.image) as string;
+});
+galleryItems.forEach((g) => {
+  g.image = withBase(g.image) as string;
+});
