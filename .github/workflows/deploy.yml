@@ -1,4 +1,6 @@
+
 name: Deploy Vite Website to GitHub Pages
+
 on:
   push:
     branches:
@@ -44,9 +46,6 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./dist
-      - name: Deploy website
-        id: deployment
-        uses: actions/deploy-pages@v4
 
       - name: Deploy website
         id: deployment
