@@ -41,7 +41,7 @@ export default function JoinUsPage() {
             </div>
           </div>
           <div className="image-panel" data-reveal>
-             <img src="/EPL-LogoNew.png" className="brand-logo" alt="EPL lab logo" />
+                <img src={`${import.meta.env.BASE_URL}EPL-LogoNew.png`} className="brand-logo" alt="EPL lab logo" />
           </div>
         </div>
       </section>
