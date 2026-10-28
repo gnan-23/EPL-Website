@@ -1,8 +1,9 @@
 import { useEffect } from "react";
 import "../styles.css";
 
-const heroImage = `${import.meta.env.BASE_URL}ENERGETICS%20AND%20PROPULSION%20LABORATORY%20MODIFIED.png`;
-const profImage = `${import.meta.env.BASE_URL}team-rId4.jpeg`;
+const heroImage = "https://gnan-23.github.io/EPL-Website/ENERGETICS%20AND%20PROPULSION%20LABORATORY%20MODIFIED.png";
+
+const profImage = "https://gnan-23.github.io/EPL-Website/team-rId4.jpeg";
 
 function useReveal() {
   useEffect(() => {
