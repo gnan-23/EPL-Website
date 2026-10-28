@@ -45,7 +45,7 @@ export default function Layout({ children }: LayoutProps) {
       <header className={`site-header ${scrolled ? "is-scrolled" : ""}`}>
         <nav className="nav-shell" aria-label="Primary navigation">
           <Link className="brand" to="/" onClick={() => setOpen(false)} aria-label="EPL home">
-            <img src="/EPL-LogoNew.png" className="brand-logo" alt="EPL lab logo" />
+          <img src={`${import.meta.env.BASE_URL}EPL-LogoNew.png`} className="brand-logo" alt="EPL lab logo" />
               <span className="brand-text">Energetics and Propulsion Laboratory</span>
           </Link>
           <button
