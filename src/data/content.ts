@@ -556,7 +556,7 @@ export const members: Member[] = [
   {
     name: "Dr. Gnanaprakash Kanagaraj",
     position: "Assistant Professor,   Head of Laboratory",
-    interests: "Rocket propulsion, energetic materials, electric propulsion, diagnostics, and green aerospace fuels.",
+    interests: "Assistant Professor,   Head of Laboratory",
     email: "gnan@mae.iith.ac.in",
     image: "/team-rId4.jpeg",
     group: "Professor"
@@ -564,161 +564,168 @@ export const members: Member[] = [
   {
     name: "YSA Venkataram",
     position: "PhD Scholar",
-    interests: "Metal fuel combustion and energetic propellants.",
+    interests: "Investigating metal combustion for sustainable energy generation and clean energy applications.",
     image: "/team-rId5.jpeg",
     group: "PhD Scholars"
   },
   {
     name: "Deepachanthiran RK",
     position: "PhD Scholar",
-    interests: "Energetic systems modeling and experimental propulsion.",
+    interests: "Combustion and agglomeration characteristics of metals and metal hydrides in CSPs.",
     image: "/Deepachanthiran.jpeg",
     group: "PhD Scholars"
   },
   {
     name: "Rishabh Dhadiwal",
     position: "PhD Scholar",
-    interests: "High-energy materials and combustion diagnostics.",
+    interests: "Developing metallized hydro-reactive solid propellants for underwater ramjet propulsion.",
     image: "/team-rId6.jpeg",
     group: "PhD Scholars"
   },
   {
     name: "Mallidi Jaswanth Reddy",
     position: "PhD Scholar",
-    interests: "Propellant formulation and combustion testing.",
+    interests: "Investigating metal-fuel combustion with ammonia addition carbon-free energy applications.",
     image: "/team-rId7.jpeg",
     group: "PhD Scholars"
   },
   {
     name: "Senthil Kumar R",
     position: "PhD Scholar",
-    interests: "Pyrotechnic igniters and aging behavior.",
+    interests: "Formulating and evaluating boron-based metallized solid fuels for solid-fuel ducted ramjet propulsion.",
     image: "/team-rId8.jpeg",
     group: "PhD Scholars"
   },
   {
     name: "Abhik Mukhopadhyay",
     position: "PhD Scholar",
-    interests: "Diagnostics, imaging, and combustion behavior.",
+    interests: "Investigating ignition and pyroelectric combustion in electrically controlled solid propellants.",
     image: "/team-rId17.jpeg",
     group: "PhD Scholars"
   },
   {
-    name: "Sharon",
+    name: "Yasarapudi Sharon Ruth",
     position: "PhD Scholar",
-    interests: "Propulsion experiments and lab coordination.",
+    interests: "Numerical Analysis of Water Injection for Underwater Ramjet Propulsion Systems.",
     image: "/sharon.jpeg",
     group: "PhD Scholars"
   },
   {
     name: "Harshavardhan Madishetti",
     position: "M. Tech Scholar",
-    interests: "Electric solid propellant combustion and diagnostics.",
+    interests: "Development and evaluation of Hydro-reactive solid propellants for under water propulsion systems.",
     image: "/team-rId9.jpeg",
     group: "M. Tech Scholars"
   },
   {
     name: "Shanmukha Adithya Anupindi",
     position: "M. Tech Scholar",
-    interests: "Energetic materials and rocket propulsion studies.",
+    interests: "Numerical Analysis of Hydro-Reactive Solid Propellants for Underwater Ramjet Applications",
     image: "/team-rId10.jpeg",
     group: "M. Tech Scholars"
   },
   {
     name: "Pangambam Lenin Singh",
     position: "M. Tech Scholar",
-    interests: "Solid rocket propellant performance and analysis.",
+    interests: "Development and analysis of numerical model for aluminum particle combustion",
     image: "/team-rId11.jpeg",
     group: "M. Tech Scholars"
   },
   {
     name: "Arohi Mathur",
     position: "M. Tech Scholar",
-    interests: "Diagnostics, imaging, and combustion behavior.",
+    interests: "Electrically driven ignition and combustion Characteristics of Pyroelectric Solid Propellants",
     image: "/team-rId12.jpeg",
     group: "M. Tech Scholars"
   },
   {
     name: "KPSS Venkata Balaji",
     position: "M. Tech Scholar",
-    interests: "Electric solid propellant combustion and diagnostics.",
+    interests: " ",
     image: "/Balaji.jpeg",
     group: "M. Tech Scholars"
   },
   {
     name: "Mohit Chaudhary",
     position: "M. Tech Scholar",
-    interests: "Digital-inline holography and pyrometry for combustion diagnostics.",
+    interests: " ",
     image: "/Mohit.png",
     group: "M. Tech Scholars"
   },
   {
     name: "Dr. Rajneesh Kumar Yadav",
     position: "Project Staff",
-    interests: "Propulsion experiments and lab coordination.",
+    interests: "Numerical prediction of the transient evolution of temperature and species using an Al–Mg reaction mechanism to analyze reaction pathways",
     image: "/team-rId13.jpeg",
     group: "Project Staffs"
   },
   {
     name: "Naresh Kumar",
     position: "Project Staff",
-    interests: "Experimental support and energetic materials testing.",
+    interests: "Investigating combustion response and instability of composite solid propellants using T-burner and Pulsed BEM techniques.",
     image: "/Naresh.jpeg",
     group: "Project Staffs"
   },
   {
     name: "Vishnu Vikrama Simman R",
     position: "Project Staff",
-    interests: "Instrumentation and propellant characterization.",
+    interests: "Investigating combustion response and instability of composite solid propellants using T-burner and Pulsed BEM techniques.",
     image: "/team-rId14.jpeg",
     group: "Project Staffs"
   },
   {
     name: "Arpit Dubey",
     position: "Project Staff",
-    interests: "Data acquisition and propulsion system support.",
+    interests: "Investigating combustion response and instability of composite solid propellants using T-burner and Pulsed BEM techniques.",
     image: "/team-rId15.jpeg",
     group: "Project Staffs"
   },
   {
     name: "MNS Harsha Vardhan",
     position: "Project Staff",
-    interests: "Lab operations and energetic materials experiments.",
+    interests: "Combustion and agglomeration of metal particles in aluminized solid propellants using DIH and two-wavelength imaging pyrometry.",
     image: "/team-rId16.jpeg",
+    group: "Project Staffs"
+  },
+  {
+    name: "Anfal S",
+    position: "Project Staff",
+    interests: "Combustion Studies on Coal–Biochar Blends for Industrial Applications as Fuel and Reductant in Rotary Kilns for the DRI Process.",
+    image: "/Anfal S.jpeg",
     group: "Project Staffs"
   },
   {
     name: "Atri Bandyopadhyay",
     position: "Intern",
-    interests: "Former lab researcher focused on combustion studies.",
+    interests: "Development and Ballistic Characterization of Catalysed Hydro-Reactive Solid Propellants for Under Water Propulsion Systems.",
     image: "/Atri.jpeg",
     group: "Interns"
   },
   {
     name: "Prateek Jain",
-    position: "2021-23",
-    interests: "Former EPL researcher in combustion and propulsion.",
+    position: "Former EPL researcher in combustion and propulsion.",
+    interests: "2021-23",
     image: "https://placehold.co/520x620/e8edf3/285f9f?text=Prateek+Jain",
     group: "Alumni"
   },
   {
     name: "Shreyas Sahu",
-    position: "2024-26",
-    interests: "Former team member working on propellant diagnostics.",
+    position: "Former team member working on propellant diagnostics.",
+    interests: "2024-26",
     image: "/team-rId18.jpeg",
     group: "Alumni"
   },
   {
     name: "Amit Kumar Mishra",
-    position: "2024-26",
-    interests: "Former researcher in propulsion and experimental analysis.",
+    position: "Former researcher in propulsion and experimental analysis.",
+    interests: "2024-26",
     image: "/team-rId19.jpeg",
     group: "Alumni"
   },
   {
     name: "Sairaj Gaunekar",
-    position: "2025-26",
-    interests: "Former lab researcher focused on combustion studies.",
+    position: "Former lab researcher focused on combustion studies.",
+    interests: "2025-26",
     image: "/Sairaj.jpeg",
     group: "Alumni"
   }

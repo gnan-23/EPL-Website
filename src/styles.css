@@ -194,7 +194,7 @@ h3 { margin: 0 0 0.75rem; font-size: 1.08rem; line-height: 1.25; }
 .news-meta { display: flex; flex-wrap: wrap; gap: 0.6rem; margin-bottom: 0.85rem; color: var(--blue); font-size: 0.82rem; font-weight: 800; text-transform: uppercase; letter-spacing: 0.08em; }
 .member-card { padding: 0.85rem; }
 .member-card img { width: 100%; aspect-ratio: 1 / 1.08; object-fit: cover; object-position: center 15%; border-radius: 6px; margin-bottom: 1rem; }
-.member-card p { margin: 0 0 0.45rem; font-weight: 700; color: var(--blue-dark); }
+.member-card p {font-family: "Segoe UI", sans-serif; font-size: 15px; line-height: 1.55; font-weight: 400; color: #183B5B;}
 .member-card span { display: block; color: var(--muted); font-size: 0.92rem; margin-bottom: 0.85rem; }
 .member-card a { color: var(--blue); overflow-wrap: anywhere; font-size: 0.92rem; }
 dl { margin: 0 0 1rem; display: grid; gap: 0.55rem; }

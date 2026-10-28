@@ -56,7 +56,7 @@ export default function TeamPage() {
                   <article className="member-card" key={member.name} data-reveal>
                     {group !== "Alumni" && (<img src={member.image} alt={`${member.name} profile photo`}loading="lazy"/>)}
                     <h3>{member.name}</h3>
-                    <p>{member.position}</p>
+                    <p>{member.interests}</p>
                   </article>
                 ))}
               </div>
