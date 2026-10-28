@@ -11,7 +11,7 @@ import "./styles.css";
 
 function App() {
   return (
-    <BrowserRouter>
+      <BrowserRouter basename={import.meta.env.BASE_URL.replace(/\/$/, "")}>
       <Layout>
         <Routes>
           <Route path="/" element={<HomePage />} />
