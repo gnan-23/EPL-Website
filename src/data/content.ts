@@ -614,7 +614,7 @@ export const members: Member[] = [
     name: "Harshavardhan Madishetti",
     position: "M. Tech Scholar",
     interests: "Development and evaluation of Hydro-reactive solid propellants for under water propulsion systems.",
-    image: "/team-rId9.jpeg",
+    image: "/Harshvardhan.jpeg",
     group: "M. Tech Scholars"
   },
   {

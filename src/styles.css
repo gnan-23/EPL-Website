@@ -74,15 +74,15 @@ button, input, textarea { font: inherit; }
 .brand { display: inline-flex; align-items: center; gap: 0.9rem; font-weight: 700; }
 .brand-logo {
   width: auto;
-  height: 52px;
-  max-width: 160px;
+  height: 90px;
+  max-width: 200px;
   object-fit: contain;
   background: Transparent;
   border-radius: 0;
   padding: 0;
   box-shadow: none;
 }
-.brand-text { font-size: 1.10rem; color: var(--ink); }
+.brand-text { font-size: 1.50rem; color: var(--ink); }
 .nav-links { display: flex; align-items: center; gap: clamp(0.7rem, 1.6vw, 1.6rem); padding: 0; margin: 0; list-style: none; }
 .nav-links a { font-size: 1.10rem; color: #2c3d50; position: relative; }
 .nav-links a::after { content: ""; position: absolute; left: 0; right: 0; bottom: -0.45rem; height: 1px; background: var(--blue); transform: scaleX(0); transform-origin: left; transition: transform 0.2s ease; }
@@ -220,7 +220,7 @@ dd { margin: 0; font-weight: 700; }
 
 /* Professor profile on homepage */
 .prof-image-panel img { aspect-ratio: 3 / 4; }
-.prof-image-panel { width: 350px; padding: 8px; justify-self: center; }
+.prof-image-panel { width: 360px; padding: 8px; justify-self: center; }
 .prof-name { margin: 0 0 0.3rem; font-size: 1.4rem; color: var(--blue-dark); }
 .prof-title { margin: 0 0 1.2rem; color: var(--muted); font-size: 1rem; font-weight: 600; }
 .prof-details { margin: 0 0 1.5rem; display: grid; gap: 0.6rem; }

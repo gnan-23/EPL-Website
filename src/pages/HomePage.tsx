@@ -90,12 +90,14 @@ export default function HomePage() {
                   <dd><a  href="https://mail.google.com/mail/?view=cm&fs=1&to=gnan@mae.iith.ac.in" target="_blank" rel="noopener noreferrer" style={{ color: "blue", fontWeight: "bold" }}>gnan@mae.iith.ac.in</a></dd>
                 </div>
               </dl>
-              <h4 className="research-heading">Current areas of research:</h4>
+              <h4 className="research-heading">Education & Experience:</h4>
               <ul className="research-list">
-                <li>Combustion and hydrolysis of metal fuel particles for clean recyclable energy</li>
-                <li>Solid rocket propellants and their performance</li>
-                <li>Development of pyroelectric solid propellants (PSPs)</li>
-                <li>Characterization of pyrotechnic igniters and delay materials</li>
+                <li>2022–Present: Assistant Professor, IIT Hyderabad</li>
+                <li>2019–2022: Postdoctoral Researcher, Seoul National University, South Korea</li>
+                <li>2018–2019: Senior Project Officer, IIT Madras</li>
+                <li>2018: Ph.D. in Aerospace Engineering, IIT Madras</li>
+                <li>2012: M.E. in Aerospace Technology, Anna University</li>
+                <li>2010: B.E. in Aeronautical Engineering, Hindustan College of Engineering</li>
               </ul>
             </div>
           </div>
